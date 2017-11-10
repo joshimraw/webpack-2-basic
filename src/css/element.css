@@ -1,0 +1,22 @@
+#btn{
+	padding: 10px 20px;
+	font-size: 18px;
+	color: white;
+	background: #7caf50;
+	border: none;
+	outline: none;
+	cursor: pointer;
+}
+#btn:hover{
+	opacity: .9;
+}
+#para{
+	display: none;
+	background: beige;
+	color: black;
+	font-size: 17px;
+	padding: 20px 10px;
+	border: 2px solid #ddd;
+	width: 300px;
+	margin: 20px auto;
+}
